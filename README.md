@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on MERN project which is implementation of IBM hyperledger Blockchain Application.
 - 🌱 I’m currently learning Java, Design Patterns, HLD and LLD.
 - 👯 I’m looking to collaborate on JS projects, problem solving, Java discussion.
-- 📫 How to reach me: shekharsuman.cse@gmail.com
+- 📫 Reach me at: shekharsuman.cse@gmail.com
 
 <!--
 **AezakmiSS/AezakmiSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
