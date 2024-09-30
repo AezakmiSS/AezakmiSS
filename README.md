@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on MERN project which is implementation of IBM hyperledger Blockchain Application.
+- 🌱 I’m currently learning Java, Design Patterns, HLD and LLD.
+- 👯 I’m looking to collaborate on JS projects, problem solving, Java discussion.
+- 📫 How to reach me: shekharsuman.cse@gmail.com
+
 <!--
 **AezakmiSS/AezakmiSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AezakmiSS&theme=dark&show_icons=true)
+<!-- ![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AezakmiSS&theme=dark&show_icons=true) -->
